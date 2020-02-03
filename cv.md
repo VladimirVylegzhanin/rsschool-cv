@@ -1,6 +1,6 @@
 ## Junior Frontend Developer CV
 
-###Personal information:
+### Personal information:
 
 **First name:**
 Vladimir 
@@ -12,13 +12,15 @@ Vylegzhanin
 * LinkedIn: https://www.linkedin.com/in/johnyout/
 * Email: vl.vylegzhanin@yandex.ru
 
-###Summary
+### Summary
+
 | Dates | Company | Responsibilities |
 | --- | --- | --- |
 | 2017-2019 | Freemake | Supporting desktop client, backends, sites |
 | 2019-this moment | Dodo Pizza | Mobile backend, Payment gateway |
 
-###Skills
+### Skills
+
 * .NET Stack
 	* .NET Framework
 	* .NET Core
@@ -42,5 +44,5 @@ Vylegzhanin
 	* React
 	* Typescript
 
-###English
+### English
 On the last interview EPAM estimate like Upper Intermediate (i am not sure :))
